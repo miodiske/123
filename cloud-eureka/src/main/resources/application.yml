@@ -41,3 +41,4 @@ server:
 eureka:
   instance:
     hostname: eureka-7902
+    #abc
