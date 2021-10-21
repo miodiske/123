@@ -7,6 +7,7 @@ eureka:
     fetch-registry: false
     service-url:
       defaultZone: http://localhost:7900/eureka/,http://localhost:7901/eureka/,http://localhost:7902/eureka/
+    registry-fetch-interval-seconds: 30
   server: #自我保护开关
     enable-self-preservation: false
     #自我保护开启比例
