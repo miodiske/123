@@ -1,4 +1,4 @@
-package com.mashibing.internalcommon.dto.serviceverificationcode;
+package com.lvxp.internalcommon.dto.serviceverificationcode;
 
 import lombok.Data;
 

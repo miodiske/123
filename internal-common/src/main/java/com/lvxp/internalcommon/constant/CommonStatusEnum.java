@@ -1,4 +1,4 @@
-package com.mashibing.internalcommon.constant;
+package com.lvxp.internalcommon.constant;
 
 import lombok.Getter;
 

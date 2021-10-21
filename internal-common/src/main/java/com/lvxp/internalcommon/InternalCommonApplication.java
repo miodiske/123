@@ -1,4 +1,4 @@
-package com.mashibing.internalcommon;
+package com.lvxp.internalcommon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

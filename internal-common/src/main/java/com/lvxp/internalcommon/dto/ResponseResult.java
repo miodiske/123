@@ -1,6 +1,6 @@
-package com.mashibing.internalcommon.dto;
+package com.lvxp.internalcommon.dto;
 
-import com.mashibing.internalcommon.constant.CommonStatusEnum;
+import com.lvxp.internalcommon.constant.CommonStatusEnum;
 import lombok.Data;
 import lombok.experimental.Accessors;
 
@@ -18,7 +18,6 @@ import java.io.Serializable;
 /**
  * 抑制所有异常
  */
-// 12321321321
 @SuppressWarnings("all")
 public class ResponseResult<T> implements Serializable {
 
